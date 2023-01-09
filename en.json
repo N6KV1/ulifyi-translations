@@ -18,7 +18,7 @@
     "logout": "Logout",
     "verify_email": "Verify E-Mail",
     "verify_email_notice": "A new verification mail was sent do your E-Mail.",
-    "verify_email_notice2": Before you continue, check your E-Mails for a verification link.",
+    "verify_email_notice2": "Before you continue, check your E-Mails for a verification link.",
     "verify_email_notice3": "If you didn't receive an E-Mail,",
     "verify_email_notice4": "click here to request a new one",
     "verify_email_notice5": "If you didn't receive an E-Mail, check your Spam-Folder",
