@@ -224,5 +224,11 @@
     "system_mode": "Systemeinstellungen",
     "language": "Sprache",
     "language_text": "Hier können Sie die Sprache Ihres Ulifyi Profils anpassen.",
-    "language_info": "Die Sprache Ihres Ulifyi Profils wird automatisch auf die Sprache Ihres Browsers eingestellt. Wenn Sie die Sprache Ihres Ulifyi Profils ändern möchten, können Sie dies hier tun."
+    "language_info": "Die Sprache Ihres Ulifyi Profils wird automatisch auf die Sprache Ihres Browsers eingestellt. Wenn Sie die Sprache Ihres Ulifyi Profils ändern möchten, können Sie dies hier tun.",
+    "error_captcha": "Captcha Fehler!",
+    "login_success": "Erfolgreich eingeloggt!",
+    "logout_success": "Erfolgreich ausgeloggt!",
+    "register_success": "Erfolgreich registriert!",
+    "accept": "Zustimmung",
+    "the1": "den"
 }

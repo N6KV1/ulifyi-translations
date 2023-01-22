@@ -224,5 +224,11 @@
     "system_mode": "System Settings",
     "language": "Language",
     "language_text": "Here you can change the language of your Ulifyi profile.",
-    "language_info": "The language of your Ulifyi profile is automatically set to the language of your browser. If you want to change the language of your Ulifyi profile, you can do it here."
+    "language_info": "The language of your Ulifyi profile is automatically set to the language of your browser. If you want to change the language of your Ulifyi profile, you can do it here.",
+    "error_captcha": "An error occurred! Please complete the captcha!",
+    "login_success": "You have successfully logged in!",
+    "logout_success": "You have successfully logged out!",
+    "register_success": "You have successfully registered!",
+    "accept": "Accepting",
+    "the1": "the"
 }
